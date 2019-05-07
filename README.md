@@ -2,4 +2,5 @@
 学习repository
 
 Hello,I'm Walter!
-This is my first time use Github!Let's rock and roll!
+This is my second time use Github!Let's rock and roll!
+Let's review how to create a brand and commit!
